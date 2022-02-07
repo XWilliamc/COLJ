@@ -37,14 +37,14 @@ function Footer() {
             <FooterLinkTitle>Nosotros</FooterLinkTitle>
             <FooterLink to='/sign-up'></FooterLink>
             <FooterLink to='/'></FooterLink>
-            <FooterLink to='/'>Productos</FooterLink>
+            <FooterLink to='/products'>Productos</FooterLink>
             <FooterLink to='/'></FooterLink>
             <FooterLink to='/'>Términos de servicio</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Contáctenos</FooterLinkTitle>
-            <FooterLink to='/'>Contacto</FooterLink>
-            <FooterLink to='/'>Ayuda</FooterLink>
+            <FooterLink to='/contactanos'>Contacto</FooterLink>
+            <FooterLink to='/contactanos'>Ayuda</FooterLink>
             <FooterLink to='/'></FooterLink>
             <FooterLink to='/'></FooterLink>
           </FooterLinkItems>

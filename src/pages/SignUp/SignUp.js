@@ -15,7 +15,7 @@ function SignUp() {
     "linear-gradient(to right, #56C1E1 0%, #35A9CE 50%)";
   return (
 
-    <SignUp className="container-SignUp">
+    
     <MainContainer>
     
      
@@ -25,7 +25,8 @@ function SignUp() {
         <Input type="password" placeholder="Password" />
       </InputContainer>
       <ButtonContainer>
-        <Button content="Sign Up" />
+        <Button content="/SignUp" />
+        
       </ButtonContainer>
       <LoginWith>OR LOGIN WITH</LoginWith>
       <HorizontalRule />
@@ -41,7 +42,7 @@ function SignUp() {
         </Icon>
       </IconsContainer>
       <ForgotPassword>Has olvidado tu contraseña?</ForgotPassword>
-    </MainContainer></SignUp>
+    </MainContainer>
   );
 }
 
